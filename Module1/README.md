@@ -6,6 +6,8 @@ This script does the following to a batch of images iteratively:
 - Resize an image
 - Save an image in a specific format in a separate directory
 
+---
+
 ### Usage
 To use this script, Download the file containing zipped images using the following CURL request:
 
@@ -30,5 +32,5 @@ Now, run the file.
 
 `./<your_script_name>.py`  
 
-Once this is successful, this should produce images in the right format withing the directory `opt/icons/`  
+Once this is successful, this should produce images in the right format within the directory `opt/icons/`  
 Note: You might face permission issues in accessing /opt, in this case run the script with `sudo`
