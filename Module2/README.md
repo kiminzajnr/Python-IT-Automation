@@ -10,4 +10,5 @@
 - Manage information stored in Python dictionaries
 - Use the Python requests module to upload content to a running Web service
 - Understand basic operations for Python requests like GET and POST methods
+
 You'll have 90 minutes to complete this lab
